@@ -18,7 +18,6 @@ numpy>=1.24.0
 polars>=0.19.0
 
 # Databases
-sqlite3
 sqlalchemy>=2.0.0
 pymongo>=4.5.0  # Optional for MongoDB support
 psycopg2-binary>=2.9.0  # Optional for PostgreSQL
@@ -38,9 +37,6 @@ scapy>=2.5.0  # Advanced network analysis
 # API Integrations
 google-generativeai>=0.4.2  # Gemini AI
 python-dotenv>=1.0.0
-
-# Threat Intelligence
-threat-intel-lib>=1.0.0  # Optional
 
 # Visualization & Reporting
 plotly>=5.17.0
@@ -65,7 +61,6 @@ pytest-cov>=4.1.0
 
 # Performance
 cachetools>=5.3.0
-speedups>=0.2.0
 
 # Development
 black>=23.0.0  # Code formatting
