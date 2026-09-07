@@ -12,9 +12,9 @@ Architecture:
   • Enterprise-Grade Reporting (PDF, Markdown, JSON with Forensics)
   • Production-Ready Code: Type Hints, Error Handling, Security Best Practices
 
-Author: Muhammad Hassaan Zahid (@Iamhasaanzahid)
-License: MIT
-Version: 3.0 Enterprise Edition
+Author: Muhammad Hassaan Zahid (@Iamhasaanzahid)[cite: 1]
+License: MIT[cite: 1]
+Version: 3.0 Enterprise Edition[cite: 1]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 
