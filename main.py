@@ -361,9 +361,8 @@ class EnterpriseReportGenerator:
         return json.dumps({'domain': domain, 'timestamp': datetime.utcnow().isoformat(), 'findings': findings}, indent=2)
 
 # ══════════════════════════════════════════════════════════════════════════════════
-5. STREAMLIT FRONTEND & INTERFACE
+# 5. STREAMLIT FRONTEND & INTERFACE
 # ══════════════════════════════════════════════════════════════════════════════════
-
 st.set_page_config(page_title="🛡️ MHZALY Enterprise Security Platform", page_icon="🛡️", layout="wide", initial_sidebar_state="expanded")
 
 # Authentication Layer
